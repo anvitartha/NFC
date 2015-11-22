@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">NFCRead</string>
+    <string name="action_settings">Settings</string>
+    <string name="explanation">place your nfc tag near to device</string>
+
+</resources>
